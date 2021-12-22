@@ -1,2 +1,2 @@
 # rNetwork - Website
-### Bring Collaboration to an ecosystem of distributed work
+### Bringing Collaboration to the Distributed Work Ecosystem
